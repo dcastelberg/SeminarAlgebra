@@ -139,6 +139,7 @@ chapter=jordan
 #
 # Kapitel 14 qa
 chapter=qa
+3
 6
 #
 # Kapitel 15 elektro
